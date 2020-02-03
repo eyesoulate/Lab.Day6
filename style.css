@@ -1,0 +1,22 @@
+body {
+    background-color: skyblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#consult {
+    border-radius: 100px;
+}
+
+.fruit {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jumbotron jumbotron-fluid {
+    text-align: center;
+}
+
+.footer {
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
